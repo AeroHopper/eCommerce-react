@@ -42,4 +42,5 @@ const useProduct = (id) => {
   return { product, isLoading, error };
 };
 
+//asdofhapohvposdhfouaw
 export default useProduct;

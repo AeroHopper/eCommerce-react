@@ -37,6 +37,8 @@ function* handleAction(location, message, status) {
   yield call(displayActionMessage, message, status);
 }
 
+//asdofhapohvposdhfouaw
+
 function* productSaga({ type, payload }) {
   switch (type) {
     case GET_PRODUCTS:
