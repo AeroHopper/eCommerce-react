@@ -65,7 +65,3 @@ const useFileHandler = (initState) => {
 };
 
 export default useFileHandler;
-
-
-
-//asdofhapohvposdhfouaw
