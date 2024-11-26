@@ -53,6 +53,3 @@ const useFeaturedProducts = (itemsCount) => {
 };
 
 export default useFeaturedProducts;
-
-
-//asdofhapohvposdhfouaw
