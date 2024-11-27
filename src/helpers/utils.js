@@ -25,8 +25,6 @@ export const displayMoney = (n) => {
   return format.format(n);
 };
 
-
-//asdofhapohvposdhfouaw
 export const calculateTotal = (arr) => {
   if (!arr || arr?.length === 0) return 0;
 
