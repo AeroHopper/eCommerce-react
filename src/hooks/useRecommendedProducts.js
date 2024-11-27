@@ -54,6 +54,3 @@ const useRecommendedProducts = (itemsCount) => {
 };
 
 export default useRecommendedProducts;
-
-
-//asdofhapohvposdhfouaw
