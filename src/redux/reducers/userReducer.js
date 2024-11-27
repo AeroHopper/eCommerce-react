@@ -21,27 +21,6 @@ import { ADD_USER, DELETE_USER, EDIT_USER } from '@/constants/constants';
 //     banner: '',
 //     dateJoined: 0
 //   }
-// ];// const initState = [
-//   {
-//     firstname: 'Gago',
-//     lastname: 'Ka',
-//     email: 'gagoka@mail.com',
-//     password: 'gagooo',
-//     avatar: '',
-//     banner: '',
-//     dateJoined: 0
-//   }
-// ];// const initState = [
-//   {
-//     firstname: 'Gago',
-//     lastname: 'Ka',
-//     email: 'gagoka@mail.com',
-//     password: 'gagooo',
-//     avatar: '',
-//     banner: '',
-//     dateJoined: 0
-//   }
-// ];
 
 export default (state = {}, action) => {
   switch (action.type) {
