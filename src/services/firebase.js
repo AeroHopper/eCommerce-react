@@ -13,7 +13,7 @@ class Firebase {
     this.auth = app.auth();
   }
 
-  // AUTH ACTIONS ------------
+  // AUTH ACTIONS ------------ repair
 
   createAccount = (email, password) =>
     this.auth.createUserWithEmailAndPassword(email, password);

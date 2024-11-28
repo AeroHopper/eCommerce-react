@@ -7,5 +7,5 @@ const firebaseConfig = {
   messagingSenderId: import.meta.env.VITE_FIREBASE_MSG_SENDER_ID,
   appId: import.meta.env.VITE_FIREBASE_APP_ID
 };
-
+// chatgpt call
 export default firebaseConfig;
